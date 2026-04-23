@@ -1,0 +1,21 @@
+action_taken,property_value,income,tract_population,tract_minority_population_percent,ffiec_msa_md_median_family_income,tract_to_msa_income_percentage,state_code,derived_loan_product_type,derived_dwelling_category,loan_purpose,lien_status,occupancy_type,applicant_age,derived_race,derived_sex,derived_ethnicity
+1,975000,0,5359,91.23,101900,62.0,NJ,Conventional:First Lien,Single Family (1-4 Units):Site-Built,31,1,3,45-54,White,Male,Hispanic or Latino
+2,655000,140,5395,31.36,156200,117.0,NY,FHA:First Lien,Single Family (1-4 Units):Site-Built,1,1,1,25-34,Asian,Male,Not Hispanic or Latino
+1,555000,138,7409,97.99,79400,57.0,FL,Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,1,1,35-44,White,Male,Hispanic or Latino
+2,725000,108,4295,91.13,133300,47.0,NJ,Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,1,1,35-44,White,Male,Hispanic or Latino
+1,515000,65,2902,41.21,156200,52.0,NY,FHA:First Lien,Single Family (1-4 Units):Site-Built,1,1,1,35-44,White,Male,Hispanic or Latino
+2,305000,53,2243,17.79,83800,152.0,NY,Conventional:First Lien,Single Family (1-4 Units):Site-Built,31,1,1,45-54,White,Female,Not Hispanic or Latino
+1,325000,74,6353,64.79,88800,78.0,FL,Conventional:First Lien,Single Family (1-4 Units):Site-Built,31,1,3,35-44,Native Hawaiian or Other Pacific Islander,Female,Not Hispanic or Latino
+2,615000,128,5626,66.53,156200,105.0,NY,Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,1,1,35-44,White,Male,Hispanic or Latino
+1,365000,77,6027,89.41,156200,61.0,NY,FHA:First Lien,Single Family (1-4 Units):Site-Built,1,1,1,25-34,White,Male,Hispanic or Latino
+1,395000,250,4791,69.13,89100,86.0,FL,Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,1,3,35-44,White,Male,Hispanic or Latino
+2,375000,111,6787,26.39,70600,131.0,FL,FHA:First Lien,Single Family (1-4 Units):Site-Built,1,1,1,45-54,White,Male,Hispanic or Latino
+1,825000,240,5687,15.58,101900,149.0,NY,Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,1,1,25-34,White,Male,Not Hispanic or Latino
+2,615000,156,4888,91.88,79400,163.0,FL,Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,1,1,25-34,White,Female,Hispanic or Latino
+1,245000,52,5842,95.96,79400,55.0,FL,Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,1,1,35-44,White,Female,Hispanic or Latino
+1,645000,174,4479,93.48,79400,93.0,FL,Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,1,1,45-54,White,Male,Hispanic or Latino
+1,355000,165,2091,36.2,122200,101.0,MD,FHA:First Lien,Single Family (1-4 Units):Site-Built,1,1,1,35-44,White,Female,Not Hispanic or Latino
+2,635000,283,8495,97.62,156200,81.0,NY,Conventional:First Lien,Single Family (1-4 Units):Site-Built,31,1,3,35-44,White,Male,Not Hispanic or Latino
+1,495000,161,6376,96.52,79400,75.0,FL,Conventional:Subordinate Lien,Single Family (1-4 Units):Site-Built,1,2,1,25-34,White,Female,Hispanic or Latino
+1,305000,78,3811,88.09,100900,0.0,GA,Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,1,1,25-34,Black or African American,Female,Not Hispanic or Latino
+1,1635000,117,5993,51.01,101900,65.0,NY,Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,1,1,25-34,Asian,Male,Not Hispanic or Latino

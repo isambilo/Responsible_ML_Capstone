@@ -1,0 +1,12 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+2024_lar.txt
+data/*.parquet
+.Rhistory
+作業規則.png
+lecture1-5.png
+lecture6-7.png
+implentation_plan.md
+assignment_ready_explanation.md
+2024_lar.zip
