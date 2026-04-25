@@ -171,7 +171,7 @@ The raw file contains 99 columns, but many were intentionally excluded from the 
 The notebook now uses:
 
 - `LogisticRegression(max_iter=1000)` as the baseline model
-- `GradientBoostingClassifier(random_state=42)` as the main model
+- `XGBClassifier(random_state=42)` as the main model
 - no naive baseline block
 - no `interest_rate` feature in the modeling inputs
 
